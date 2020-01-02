@@ -1,0 +1,7 @@
+name: data-science-from-scratch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip:
+    - -r requirements.txt
